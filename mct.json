@@ -1,5 +1,10 @@
 [
   {
+    "version": "v1.4.2",
+    "releaseDate": "2020-01-14",
+    "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=4252"
+  },
+  {
     "version": "v1.3",
     "releaseDate": "2019-06-30",
     "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=3971"
