@@ -10,23 +10,5 @@
     "releaseDate": "2019-12-17",
     "requiredDate": "2020-02-14",
     "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=4252"
-  },
-  {
-    "version": "v1.3",
-    "releaseDate": "2019-06-30",
-    "requiredDate": "2019-06-30",
-    "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=3971"
-  },
-  {
-    "version": "v1.2",
-    "releaseDate": "2019-04-10",
-    "requiredDate": "2019-04-10",
-    "downloadUrl": "https://portal.mopria.org/MyWorkGroups/Documents.aspx?Type=Detail&DocumentID=3900"
-  },
-  {
-    "version": "v1.1",
-    "releaseDate": "2018-12-11",
-    "requiredDate": "2018-12-11",
-    "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=3497"
   }
 ]
