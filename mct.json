@@ -1,5 +1,13 @@
 [
   {
+    "version": "v1.6-dev1-21-g0090c67",
+    "releaseDate": "2020-09-03",
+    "requiredDate": "2020-10-01",
+    "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=4252",
+    "issuesVersion": "v1",
+    "issuesUrl": "https://portal.mopria.org/MyWorkGroups/Documents.aspx?Type=Detail&DocumentID=4569"
+  },
+  {
     "version": "v1.5",
     "releaseDate": "2020-06-03",
     "requiredDate": "2020-08-01",
