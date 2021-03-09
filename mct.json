@@ -6,7 +6,7 @@
     "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=4252",
     "issuesVersion": "v1",
     "issuesUrl": "https://portal.mopria.org/MyWorkGroups/Documents.aspx?Type=Detail&DocumentID=4569",
-    "certificationExpired": ["printer-v1.3"]
+    "specifications": {"printer-v1.3": "audit"}
   },
   {
     "version": "v1.4.2",
